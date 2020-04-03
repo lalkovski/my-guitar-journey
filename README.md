@@ -6,7 +6,10 @@ A simple app made for the purpose of practicing mobile optimization using grid a
 ## Screenshots
 
 ![image](https://user-images.githubusercontent.com/37442651/78378206-f4448500-75d0-11ea-9990-667469ce3bab.png)
+</br>
+<p align="center">
 ![image](https://user-images.githubusercontent.com/37442651/78378278-0aeadc00-75d1-11ea-878c-b8405fcfd8aa.png)
+</p>
 
 ## Built With
 
